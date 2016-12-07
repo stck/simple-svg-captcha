@@ -1,0 +1,28 @@
+{
+  "name": "simple-svg-captcha",
+  "version": "0.0.1",
+  "description": "Simple svg-based captcha with custom font-files and simple API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stck/simple-svg-captcha.git"
+  },
+  "keywords": [
+    "captcha",
+    "svg",
+    "xml"
+  ],
+  "author": "stck",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/stck/simple-svg-captcha/issues"
+  },
+  "homepage": "https://github.com/stck/simple-svg-captcha#readme",
+  "dependencies": {
+    "opentype.js": "^0.6.6",
+    "svgpath": "^2.2.0"
+  }
+}
